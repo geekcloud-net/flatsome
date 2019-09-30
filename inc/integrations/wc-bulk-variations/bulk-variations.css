@@ -1,0 +1,24 @@
+/*
+WooCommerce Bulk Variations
+https://woocommerce.com/products/bulk-variation-forms/
+ ---------------------------------------------------*/
+#matrix_form {
+  margin: 30px 0;
+}
+
+#matrix_form_table th,
+#matrix_form_table td {
+  font-size: 1em;
+}
+
+#matrix_form_table tfoot tr td {
+  padding: 15px 0 0 0;
+}
+
+#matrix_form_table .button {
+  margin-right: 0;
+}
+
+.rtl #matrix_form_table tfoot tr td {
+  text-align: left;
+}

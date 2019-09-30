@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="70px" viewBox="0 0 72 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <text id="Stacked" fill="#9A8F9A" font-family="Lato-Regular, Lato" font-size="13" font-weight="normal">
+                <tspan x="1" y="67.236375">Stacked </tspan>
+            </text>
+            <rect id="path-5" stroke="#75C8FF" stroke-width="2" fill-opacity="0.01" fill="#00A0D2" fill-rule="nonzero" x="7" y="0" width="34" height="8"></rect>
+            <rect id="path-5" stroke="#75C8FF" stroke-width="2" fill-opacity="0.01" fill="#00A0D2" fill-rule="nonzero" x="7" y="44" width="34" height="6"></rect>
+            <rect id="path-5" stroke="#3498DB" stroke-width="2" fill="#3498DB" fill-rule="nonzero" x="7" y="12" width="34" height="28"></rect>
+            <rect id="path-1" stroke="#3498DB" stroke-width="2" fill-opacity="0.01" fill="#00A0D2" fill-rule="nonzero" x="0" y="0.236375" width="70" height="50" rx="4"></rect>
+            <rect id="Rectangle-5-Copy-13" fill="#3498DB" fill-rule="nonzero" x="47" y="17" width="16" height="4"></rect>
+            <rect id="Rectangle-5-Copy-13" fill-opacity="0.360733696" fill="#3498DB" fill-rule="nonzero" x="47" y="23" width="12" height="4"></rect>
+            <rect id="Rectangle-5-Copy-13" fill-opacity="0.360733696" fill="#3498DB" fill-rule="nonzero" x="47" y="29" width="12" height="4"></rect>
+        </g>
+    </g>
+</svg>

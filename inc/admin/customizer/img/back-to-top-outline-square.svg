@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="73px" viewBox="0 0 100 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="71.4285714" rx="4"></rect>
+        <rect id="path-3" x="0" y="0" width="100" height="71.4285714" rx="4"></rect>
+        <rect id="path-5" x="0" y="0" width="92" height="65.7142857" rx="4"></rect>
+        <rect id="path-7" x="0.28294002" y="0.25875" width="48.6949878" height="49.1705248" rx="8"></rect>
+        <rect id="path-9" x="0" y="0" width="92" height="65.7142857" rx="4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="back-to-top-plain">
+            <g id="Mask-Clipped">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g id="Mask" mask="url(#mask-2)">
+                    <g id="path-1-Clipped">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <rect id="path-1" stroke="#3498DB" stroke-width="2" fill-opacity="0.01" fill="#00A0D2" fill-rule="nonzero" mask="url(#mask-4)" x="0" y="0" width="100" height="71.4285714" rx="4"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Square" transform="translate(50.000000, 36.120000) rotate(45.000000) translate(-50.000000, -36.120000) translate(4.000000, 3.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g mask="url(#mask-6)" id="path-5-Clipped">
+                    <g transform="translate(46.000000, 32.200000) rotate(45.000000) translate(-46.000000, -32.200000) translate(21.160000, 7.360000)">
+                        <g>
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <g id="path-5"></g>
+                            <rect id="path-5" stroke="#3498DB" stroke-width="2" fill-opacity="0.127858922" fill="#3498DB" fill-rule="nonzero" mask="url(#mask-8)" x="0.28294002" y="0.25875" width="48.6949878" height="49.1705248" rx="8"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Shape-Copy-14-Clipped" transform="translate(4.000000, 2.000000)">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <g id="path-1"></g>
+                <path d="M58.88,27.819749 C58.88,27.6045429 58.8185312,27.420093 58.6648375,27.235643 L57.404357,26.0366749 C57.2506632,25.852225 57.0354571,25.76 56.8510072,25.76 C56.6050449,25.76 56.4205949,25.852225 56.2669012,26.0366749 L46.4599935,35.8128264 L36.6838419,26.0366749 C36.4994051,25.852225 36.3149508,25.76 36.0690103,25.76 C35.884556,25.76 35.6693586,25.852225 35.515643,26.0366749 L34.2859405,27.235643 C34.1014862,27.420093 34.04,27.6045429 34.04,27.819749 C34.04,28.0349115 34.1014862,28.2501176 34.2859405,28.4345676 L45.9066437,40.0245494 C46.0603374,40.2089994 46.2447873,40.3012243 46.4599935,40.3012243 C46.7059558,40.3012243 46.8904057,40.2089994 47.0133869,40.0245494 L58.6648375,28.4345676 C58.8185312,28.2501176 58.88,28.0349115 58.88,27.819749" id="Shape" fill="#3498DB" fill-rule="nonzero" mask="url(#mask-10)" transform="translate(46.460000, 33.030612) rotate(180.000000) translate(-46.460000, -33.030612) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

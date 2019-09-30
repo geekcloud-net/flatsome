@@ -1,0 +1,15 @@
+.block-editor #uxbuilder-edit-button {
+	display: inline-flex;
+	align-items: center;
+	margin-left: 8px;
+	height: 33px;
+}
+
+.block-editor #uxbuilder-edit-button svg {
+	margin-right: 5px;
+}
+
+.block-editor #uxbuilder-edit-button.is-busy {
+	cursor: default;
+	pointer-events: none;
+}

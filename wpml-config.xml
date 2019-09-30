@@ -1,0 +1,65 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">blocks</custom-type>
+		<custom-type translate="1">featured_item</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">block_categories</taxonomy>
+		<taxonomy translate="1">featured_item_category</taxonomy>
+		<taxonomy translate="0">featured_item_tag</taxonomy>
+	</taxonomies>
+	<admin-texts>
+		<key name="theme_mods_flatsome">
+			<key name="404_block"/>
+			<key name="blog_after_post" />
+			<key name="blog_header" />
+			<key name="catalog_mode_header" />
+			<key name="catalog_mode_lightbox" />
+			<key name="catalog_mode_product" />
+			<key name="category_filter_text"/>
+			<key name="contact_hours_details"/>
+			<key name="featured_items_page" />
+			<key name="footer_left_text" />
+			<key name="footer_right_text" />
+			<key name="header_button_1"/>
+			<key name="header_button_2"/>
+			<key name="header_newsletter_label"/>
+			<key name="header_newsletter_sub_title"/>
+			<key name="header_newsletter_title"/>
+			<key name="html_after_add_to_cart" />
+			<key name="html_after_footer" />
+			<key name="html_after_header" />
+			<key name="html_before_add_to_cart" />
+			<key name="html_before_footer" />
+			<key name="html_cart_footer" />
+			<key name="html_cart_header"/>
+			<key name="html_cart_sidebar"/>
+			<key name="html_checkout_sidebar"/>
+			<key name="html_intro" />
+			<key name="html_scripts_footer" />
+			<key name="html_scripts_header" />
+			<key name="html_shop_page" />
+			<key name="html_shop_page_content"/>
+			<key name="html_thank_you"/>
+			<key name="maintenance_mode_text"/>
+			<key name="nav_position_text" />
+			<key name="nav_position_text_top" />
+			<key name="sale_bubble_percentage_formatting"/>
+			<key name="sale_bubble_text"/>
+			<key name="search_placeholder"/>
+			<key name="shop_aside_title" />
+			<key name="site_logo" />
+			<key name="tab_content" />
+			<key name="tab_title" />
+			<key name="top_right_text" />
+			<key name="topbar_left" />
+			<key name="topbar_right" />
+		</key>
+	</admin-texts>
+</wpml-config>
+
+
+
+
+
+
