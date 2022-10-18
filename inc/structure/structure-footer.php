@@ -116,7 +116,7 @@ function flatsome_html_before_footer(){
 }
 add_action('flatsome_before_footer', 'flatsome_html_before_footer');
 
-// Custom HMTL After footer
+// Custom HTML After footer
 function flatsome_html_after_footer(){
 	$html_after = get_theme_mod('html_after_footer');
 	if($html_after){
