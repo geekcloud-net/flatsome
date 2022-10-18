@@ -1496,7 +1496,7 @@ NEW OPTION: Option to change footer 1 and footer 2 columns (6, 4, 3, 2, 1).
 NEW OPTION: New grid option. Add to cart button below name/price.
 NEW OPTION: Boxed and Framed product grid style.
 NEW OPTION: Pinterest/Masonry Product grid option.
-NEW OPTION: Add HMTL or Shortcodes after a Blog post.
+NEW OPTION: Add HTML or Shortcodes after a Blog post.
 
 NEW: Flatsome Child Theme now has a custom function file.
 
